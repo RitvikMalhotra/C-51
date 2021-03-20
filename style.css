@@ -1,0 +1,13 @@
+
+			h1 {color:red}
+			p {color:green}
+			* {border:solid}
+			body{background-color:#61FFFF}
+.header{color:blue;background-color:orange;display:flex;justify-content:space-between}
+.menu{color:yellow;background-color:purple}
+.grid{display:flex;flex-wrap:wrap;justify-content:space-evenly}
+.item{color:pink}
+.footer{display:flex;justify-content:flex-end}
+.divColor{background-color:#3DFF4F}
+#div2 {color:#FFF82A}
+#div4 {color:#FF4B4B}
